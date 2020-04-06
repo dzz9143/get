@@ -1,5 +1,3 @@
-import sum from './sum';
+import { get } from './get';
 
-export {
-    sum,
-}
+export default get;
